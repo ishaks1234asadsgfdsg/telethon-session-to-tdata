@@ -10,7 +10,7 @@
 
 ```bash
 git clone https://github.com/ishaks1234asadsgfdsg/telethon-session-to-tdata
-cd session_to_tdata
+cd telethon-session-to-tdata
 python3.12 -m venv venv
 source venv/bin/activate   # Windows: venv\Scripts\activate
 pip install -r requirements.txt
