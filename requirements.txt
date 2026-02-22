@@ -1,0 +1,3 @@
+opentele==1.15.1
+Telethon==1.34.0
+rich>=13.0.0
